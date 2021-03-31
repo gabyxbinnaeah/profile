@@ -96,3 +96,17 @@ img{
 #about>h8,h9,h10{
     text-transform: capitalize;
 }
+.intrest{
+    display: flex;
+    flex-direction: row;
+    background-color: rgba(222, 184, 135, 0.199);
+}
+.hobbies{
+    margin-right: 280px;
+    margin-left: 200px;
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    
+}
