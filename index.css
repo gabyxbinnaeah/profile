@@ -61,3 +61,38 @@ img{
     color: white;
     border-radius: 5px;
 }
+.proj>h4,h5,h6{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.proj>h7{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: bold;  
+}
+.about{
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    border: 2px solid blueviolet;
+    background-color:rgba(255, 235, 205, 0.534);
+    border-radius:  
+}
+.me{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#about{
+    border: 2px solid white;
+    border-radius: 5px;
+    text-align: center;
+    background-color: darkmagenta;
+    color: white;
+}
+#about>h8,h9,h10{
+    text-transform: capitalize;
+}
