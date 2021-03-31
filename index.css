@@ -1,5 +1,22 @@
+*{
+    margin-top: 0px;
+}
 body{
     background-image: url("https://images.unsplash.com/photo-1563261438-73168c06ae56?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80");
     background-repeat: no-repeat;
     background-size: cover;
+}
+.name{
+    background-color: rgba(137, 43, 226, 0.356);
+    border-radius: 5px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.pic{
+    background-color: rgba(137, 43, 226, 0.356);
+
+}
+img{
+    position: relative;
+    left: 33.33%;
 }
