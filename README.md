@@ -33,14 +33,14 @@ ___
 ___
 ## Complete Installation
 
-git clone :
+git clone https://github.com/gabyxbinnaeah/profile.git
 navigate to the directory you have cloned then write: code .
 Then prompt go live to run project in the browser.
 ___
 
 ## Live Demo
 
-this is the link to this project: 
+this is the live link: gabyxbinnaeah.github.io/profile/.
 ___
 
 
