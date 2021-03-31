@@ -1,5 +1,6 @@
 *{
     margin-top: 0px;
+    margin-bottom: 5px;
 }
 body{
     background-image: url("https://images.unsplash.com/photo-1563261438-73168c06ae56?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80");
@@ -13,10 +14,50 @@ body{
     text-align: center;
 }
 .pic{
-    background-color: rgba(137, 43, 226, 0.356);
-
+     background-image: url("images/pic1.jpg");
+     height: 500px;
+     width: 100%;
+     background-size: cover;
 }
 img{
     position: relative;
     left: 33.33%;
+    margin-bottom: 0px;
+}
+/*color code rgba(137, 43, 226, 0.356);*/
+.projects{
+    background-color: rgba(245, 222, 179, 0.568);
+    text-align: center;
+    color:black;
+    border-radius: 5px;
+    margin-bottom: 0px;
+}
+.click{
+    color: white;
+}
+.title{
+    text-align: center;
+    background-color:rgba(137, 43, 226, 0.356);
+    margin-top: 0px;
+    height: 30px;
+    text-transform: uppercase;
+    padding-top: 5px;
+    border-radius: 5px;
+}
+.projects-description{
+    height: 150px;
+    width: 100%;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    border: 2px solid blueviolet;
+    background-color:rgba(255, 235, 205, 0.534);
+    border-radius: 5px;
+}
+.proj{
+    background-color: darkmagenta;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
 }
