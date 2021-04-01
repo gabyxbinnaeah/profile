@@ -98,29 +98,8 @@ span{
 #about>h8,h9,h10{
     text-transform: capitalize;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> cv
-.intrest{
-    display: flex;
-    flex-direction: row;
-    background-color: rgba(222, 184, 135, 0.199);
-}
-.hobbies{
-    margin-right: 280px;
-    margin-left: 200px;
-    text-align: center;
-}
-.skills{
-    text-align: center;
-    
-}
-<<<<<<< HEAD
-=======
-=======
 .interests{
-    height: 150px;
+    height: 160px;
     width: 100%;
     padding: 20px;
     display: grid;
@@ -142,7 +121,5 @@ footer {
     background-color: rgba(137, 43, 226, 0.356);
     color: white;
     border: 2px solid  blueviolet;
-    border-radius: 5px;
+    border-radius: 6px;
   }
->>>>>>> fine
->>>>>>> cv
